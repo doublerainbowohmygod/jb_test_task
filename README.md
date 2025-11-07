@@ -1,14 +1,20 @@
 
 # LLM-Powered Automation for Cyber Security
-# JetBrains Tast Aassignment
+# JetBrains Test Assignment
 
-`Core Architecture:`
+Core Architecture:
 
-`Input: Git repository path, number of commits to scan, output file`
-`Processing: Two-stage detection (regex/entropy, LLM analysis)`
-`Output: JSON report with commit hash, file path, snippet, finding type, rationale, confidence lewel, ATT&CK, mitre_category, severity`
-`*rationale - Based on type of finding, and part of diff it was found`
-`*confidence lewel - arithmetic euristic`
+
+Input: Git repository path, number of commits to scan, output file  
+
+Processing: Two-stage detection (regex/entropy, LLM analysis)  
+
+Output: JSON report with commit hash, file path, snippet, finding type, rationale, confidence level, ATT&CK, mitre_category, severity
+
+*rationale - Based on type of finding, and part of diff it was found  
+
+*confidence level - arithmetic heuristic  
+
 
 ## How setup
 `python -m venv venv`  
