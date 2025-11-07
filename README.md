@@ -1,6 +1,8 @@
 
 # LLM-Powered Automation for Cyber Security
 # JetBrains Test Assignment
+A CLI tool that scans git repository for secrets exposure.
+
 
 Core Architecture:
 
