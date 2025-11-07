@@ -30,7 +30,7 @@ Programm was tested with Python 3.11.7
 ## Technical Report & Evaluation ipynb
 
 
-The extensive report on the calculations, data analysis, model evaluation, charts, as well as a description of the obstacles and ideas for further development is at the link below. I'm also about adding an archive with a synthetic tagged dataset of secrets, and model reports to check the calculations performed in the Python notebook.   
+The extensive report on the calculations, data analysis, model evaluation, charts, as well as a description of the obstacles, and ideas for further development is at the link below. Repo holds also an archive with a synthetic tagged dataset of secrets, and model reports to check the calculations performed in the Python notebook.   
 
 https://colab.research.google.com/drive/1TR2dBqLM94JjyXJToJT7Jjyg0sI1xNJw?usp=sharing
 
